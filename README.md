@@ -71,7 +71,7 @@ To install and run this project locally, follow these steps:
 This application is deployed on Render.
 
 - **Live App:** [https://your-deployed-app-url.com](https://your-deployed-app-url.com)
-- **GitHub Repository:** [https://github.com/your-username/repository-name](https://github.com/your-username/repository-name)
+- **GitHub Repository:** [reducer](https://github.com/An-109/reducer.git)
 
 ## License
 
