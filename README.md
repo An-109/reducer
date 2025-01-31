@@ -70,7 +70,7 @@ To install and run this project locally, follow these steps:
 
 This application is deployed on Render.
 
-- **Live App:** [https://your-deployed-app-url.com](https://your-deployed-app-url.com)
+- **Live App:** [https://your-deployed-app-url.com](https://reducer-zohl.onrender.com)
 - **GitHub Repository:** [reducer](https://github.com/An-109/reducer.git)
 
 ## License
